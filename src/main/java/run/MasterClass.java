@@ -1,8 +1,8 @@
-package run;
+ackage run;
 
 public class MasterClass {
 
-	public void okMaster1() {
+	public void okMaster2() {
 
 	}
 }
