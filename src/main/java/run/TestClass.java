@@ -1,6 +1,6 @@
 package run;
 
-public class TestcClass {
+public class TestClass {
 
 	public void okTest() {
 
